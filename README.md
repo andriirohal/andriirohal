@@ -4,11 +4,13 @@ I am a Frontend Web Developer passionate about creating clean, responsive, and u
 
 ### 🛠 Tech Stack
 - Frontend: React, JavaScript (ES6+), SCSS, CSS3, HTML5
-- Tools: Git, GitHub, VS Code
+- Tools: Git, Vite, GitHub, VS Code
 - Currently Learning: Python 🐍 (Expanding into backend & automation)
 
 ### 🚀 Projects
-- [Meline-Project](https://github.com/andriirohal/First-Project): A foundational project focused on [mention detail].
+- [Meline-Project](https://github.com/andriirohal/First-Project): A deep dive into Responsive Web Design. 
+  - Mastered SCSS architecture (variables, nesting, and mixins) to keep the codebase clean and dry.
+  - Implemented a mobile-first approach, ensuring the UI looks great on everything from a phone to a 4K monitor.
 
 ### 📊 My GitHub Stats
 ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriirohal&show_icons=true&theme=tokyonight)
