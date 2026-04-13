@@ -12,9 +12,6 @@ I am a Frontend Web Developer passionate about creating clean, responsive, and u
   - Mastered SCSS architecture (variables, nesting, and mixins) to keep the codebase clean and dry.
   - Implemented a mobile-first approach, ensuring the UI looks great on everything from a phone to a 4K monitor.
 
-### 📊 My GitHub Stats
-![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriirohal&show_icons=true&theme=tokyonight)
-
 ### 🛠 What I'm working on right now
 - 🎧 Spotify Clone: Building a fully functional music streaming UI using React and SCSS. Focusing on complex state management and responsive audio controls.
 - 🐍 Python Fundamentals: Just started my journey into Python to expand my programming logic and explore backend possibilities.
