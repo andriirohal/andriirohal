@@ -1,4 +1,4 @@
-# Hi there, I'm Andrii! 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=false&vCenter=true&width=500&lines=Hi+there%2C+I'm+Andrii+👋;Frontend+Developer;React+Learner)
 
 I am a Frontend Web Developer passionate about creating clean, responsive, and user-friendly interfaces. I love turning complex problems into simple, beautiful designs.
 
