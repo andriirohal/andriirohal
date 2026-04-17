@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Andrii;Frontend+Developer;React+Learner;Clean+UI+Builder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=false&vCenter=true&width=500&lines=Hi,+I'm+Andrii;Frontend+Developer;React+Learner;Clean+UI+Builder)
 
-I’m a Frontend Developer focused on building clean, responsive, and user-friendly interfaces. I enjoy turning complex problems into simple and intuitive designs.
+I’m a Frontend Developer focused on building clean, responsive, and user-friendly interfaces. I enjoy turning complex problems into simple, intuitive designs.
 
 ---
 
@@ -15,11 +15,11 @@ I’m a Frontend Developer focused on building clean, responsive, and user-frien
 ## 🚀 Projects
 
 ### [Meline Project](https://github.com/andriirohal/First-Project)
-A responsive web design project focused on scalability and maintainability.
+Responsive web design project focused on scalability and maintainability.
 
-- Structured SCSS using variables, nesting, and mixins  
-- Mobile-first approach for all screen sizes  
-- Focus on clean and reusable code architecture  
+- SCSS architecture with variables, nesting, and mixins  
+- Mobile-first responsive layout  
+- Clean and reusable code structure  
 
 ---
 
