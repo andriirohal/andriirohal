@@ -1,17 +1,29 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=false&vCenter=true&width=500&lines=Hi+there%2C+I'm+Andrii+👋;Frontend+Developer;React+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Andrii;Frontend+Developer;React+Learner;Clean+UI+Builder)
 
-I am a Frontend Web Developer passionate about creating clean, responsive, and user-friendly interfaces. I love turning complex problems into simple, beautiful designs.
+I’m a Frontend Developer focused on building clean, responsive, and user-friendly interfaces. I enjoy turning complex problems into simple and intuitive designs.
 
-### 🛠 Tech Stack
-- Frontend: React, JavaScript (ES6+), SCSS, CSS3, HTML5
-- Tools: Git, Vite, GitHub, VS Code
-- Currently Learning: Python 🐍 (Expanding into backend & automation)
+---
 
-### 🚀 Projects
-- [Meline-Project](https://github.com/andriirohal/First-Project): A deep dive into Responsive Web Design. 
-  - Mastered SCSS architecture (variables, nesting, and mixins) to keep the codebase clean and dry.
-  - Implemented a mobile-first approach, ensuring the UI looks great on everything from a phone to a 4K monitor.
+## 🛠 Tech Stack
 
-### 🛠 What I'm working on right now
-- 🎧 Spotify Clone: Building a fully functional music streaming UI using React and SCSS. Focusing on complex state management and responsive audio controls.
-- 🐍 Python Fundamentals: Just started my journey into Python to expand my programming logic and explore backend possibilities.
+**Frontend:** React, JavaScript (ES6+), SCSS, CSS3, HTML5  
+**Tools:** Git, Vite, GitHub, VS Code  
+**Currently learning:** Python 🐍 (backend & automation)
+
+---
+
+## 🚀 Projects
+
+### [Meline Project](https://github.com/andriirohal/First-Project)
+A responsive web design project focused on scalability and maintainability.
+
+- Structured SCSS using variables, nesting, and mixins  
+- Mobile-first approach for all screen sizes  
+- Focus on clean and reusable code architecture  
+
+---
+
+## 🔧 Current Focus
+
+- 🎧 **Spotify Clone** — React + SCSS music streaming UI (state management, audio controls, responsive design)  
+- 🐍 **Python Fundamentals** — improving programming logic and exploring backend development
