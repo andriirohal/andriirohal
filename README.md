@@ -14,7 +14,8 @@
 
 ## 🚀 Projects
 
-### [Meline Project](https://github.com/andriirohal/First-Project)
+### [Meline Project](https://github.com/andriirohal/First-Project) 
+#### (My first project HTML + SCSS)
 Responsive web design project focused on scalability and maintainability.
 
 - SCSS architecture with variables, nesting, and mixins  
