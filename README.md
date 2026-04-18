@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=false&vCenter=true&width=500&lines=Hi,+I'm+Andrii;Frontend+Developer;React+Learner;Clean+UI+Builder)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Andrii;Frontend+Developer;React+Learner;Clean+UI+Builder" />
+</p>
 
 I’m a Frontend Developer focused on building clean, responsive, and user-friendly interfaces. I enjoy turning complex problems into simple, intuitive designs.
 
