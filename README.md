@@ -27,13 +27,15 @@ Python 🐍 — backend development & automation
 
 ## 🚀 Projects
 
-[![View Meline Project](https://img.shields.io/badge/View-Meline_Project-111827?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/andriirohal/First-Project)
+### 🔹Meline-Project
 
-A scalable and maintainable responsive web project with a focus on clean UI.
+#### 📚 What I Learned
 
-- 🧩 Structured SCSS architecture  
-- 📱 Mobile-first responsive layout  
-- ♻️ Reusable and organized code  
+- 🎨 Mastered SCSS architecture (mixins, placeholders, modular approach)  
+- 🧩 Built clean, scalable, and reusable styling systems  
+- 🎯 Converted Figma designs into pixel-perfect, responsive interfaces
+  
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andriirohal/First-Project)
 
 ---
 
@@ -49,9 +51,3 @@ A scalable and maintainable responsive web project with a focus on clean UI.
 - ⚙️ Backend with Python (FastAPI / Django)  
 - 🗄️ Databases (PostgreSQL / MongoDB)  
 - 🌐 Build & deploy full-stack applications  
-
----
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
