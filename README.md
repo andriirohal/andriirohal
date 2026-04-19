@@ -6,13 +6,13 @@
 
 ## 🛠 Tech Stack
 
-**Frontend**  
+### 🎨 Frontend
 React • JavaScript (ES6+) • SCSS • CSS3 • HTML5  
 
-**Tools & Workflow**  
+### ⚙️ Tools & Workflow
 Git • GitHub • Vite • VS Code  
 
-**Currently Learning**  
+### 📚 Currently Learning
 Python 🐍 — backend development & automation  
 
 ---
