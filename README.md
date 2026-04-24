@@ -4,16 +4,19 @@
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### 🎨 Frontend
-React • JavaScript (ES6+) • SCSS • CSS3 • HTML5  
+#### 🎨 Frontend
 
-### ⚙️ Tools & Workflow
-Git • GitHub • Vite • VS Code  
+React · JavaScript (ES6+) · SCSS · CSS3 · HTML5
 
-### 📚 Currently Learning
-Python 🐍 - backend development & automation  
+#### ⚙️ Tools & Workflow
+
+Git · GitHub · Vite · VS Code
+
+#### 📚 Currently Learning
+
+Python 🐍 - Backend Development & Automation
 
 ---
 
