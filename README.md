@@ -13,7 +13,7 @@ React • JavaScript (ES6+) • SCSS • CSS3 • HTML5
 Git • GitHub • Vite • VS Code  
 
 ### 📚 Currently Learning
-Python 🐍 — backend development & automation  
+Python 🐍 - backend development & automation  
 
 ---
 
@@ -41,8 +41,8 @@ Python 🐍 — backend development & automation
 
 ## 🔧 Current Focus
 
-- 🎧 **Spotify Clone** — React + SCSS UI  
-- 🐍 **Python Fundamentals** — backend & automation  
+- 🎧 **Spotify Clone** - React + SCSS UI  
+- 🐍 **Python Fundamentals** - backend & automation  
 
 ---
 
