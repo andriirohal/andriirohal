@@ -41,7 +41,7 @@ Python 🐍 - backend development & automation
 
 ## 🔧 Current Focus
 
-- 🎧 **Spotify Clone** - React + SCSS UI  
+- 🎧 **Spotify Clone** - React + SCSS  
 - 🐍 **Python Fundamentals** - backend & automation  
 
 ---
