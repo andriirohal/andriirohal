@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2200&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi,+I'm+Andrii;Frontend+Developer;React+Focused;Building+Clean+%26+Scalable+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=2200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Andrii;Frontend+Developer;React+Focused;Building+Clean+%26+Scalable+UI" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 #### 🎨 Frontend
 
