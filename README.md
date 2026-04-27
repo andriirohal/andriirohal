@@ -28,7 +28,7 @@ Python 🐍 - Backend Development & Automation
 
 ---
 
-## 🚀 Projects
+## 📂 Projects
 
 ### 🔹Meline Project
 
